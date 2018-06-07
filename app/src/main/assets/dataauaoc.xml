@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Questionare>
+    <Item>
+        <ID>185</ID>
+
+        <Answer>Algeria</Answer>
+
+    </Item>
+
+    <Item>
+        <ID>1</ID>
+
+        <Answer>Angola</Answer>
+
+
+    </Item>
+
+    <Item>
+        <ID>2</ID>
+        <Answer>Benin</Answer>
+
+    </Item>
+    <Item>
+        <ID>3</ID>
+
+        <Answer>Botswana</Answer>
+
+    </Item>
+    <Item>
+        <ID>4</ID>
+        <Answer>Burkina Faso</Answer>
+    </Item>
+    <Item>
+        <ID>5</ID>
+
+        <Answer>Burundi</Answer>
+
+    </Item>
+    <Item>
+        <ID>6</ID>
+
+        <Answer>Cabo Verde</Answer>
+
+    </Item>
+    <Item>
+        <ID>7</ID>
+        <Answer>Cameroon</Answer>
+
+    </Item>
+
+    <Item>
+        <ID>8</ID>
+
+        <Answer>Central Africa Republic</Answer>
+
+    </Item>
+    <Item>
+        <ID>9</ID>
+        <Answer>Chad</Answer>
+
+    </Item>
+    <Item>
+        <ID>10</ID>
+
+        <Answer>Comoros</Answer>
+
+    </Item>
+    <Item>
+        <ID>11</ID>
+
+        <Answer>Demoncratic Republic of the Congo</Answer>
+
+    </Item>
+    <Item>
+        <ID>12</ID>
+
+        <Answer>Republic of the Congo</Answer>
+
+    </Item>
+    <Item>
+        <ID>13</ID>
+
+        <Answer>Cote d'Ivoire</Answer>
+
+    </Item>
+    <Item>
+        <ID>14</ID>
+
+        <Answer>Djibouti</Answer>
+
+    </Item>
+    <Item>
+        <ID>15</ID>
+
+        <Answer>Egypt</Answer>
+
+    </Item>
+    <Item>
+        <ID>16</ID>
+        <Answer>Equatorial Guinea</Answer>
+
+    </Item>
+    <Item>
+        <ID>17</ID>
+
+        <Answer>Eritrea</Answer>
+
+    </Item>
+    <Item>
+        <ID>18</ID>
+        <Answer>Eswatini</Answer>
+
+    </Item>
+    <Item>
+        <ID>19</ID>
+
+        <Answer>Ethiopia</Answer>
+
+    </Item>
+    <Item>
+        <ID>20</ID>
+
+        <Answer>Gabon</Answer>
+
+    </Item>
+    <Item>
+        <ID>21</ID>
+
+        <Answer>Gambia</Answer>
+
+    </Item>
+    <Item>
+        <ID>22</ID>
+
+        <Answer>Ghana</Answer>
+
+    </Item>
+    <Item>
+        <ID>23</ID>
+
+        <Answer>Guinea</Answer>
+
+    </Item>
+    <Item>
+        <ID>24</ID>
+
+        <Answer>Guinea-Bissau</Answer>
+
+    </Item>
+    <Item>
+        <ID>25</ID>
+
+        <Answer>Kenya</Answer>
+
+    </Item>
+    <Item>
+        <ID>26</ID>
+
+        <Answer>Lesotho</Answer>
+
+    </Item>
+    <Item>
+        <ID>27</ID>
+
+        <Answer>Liberia</Answer>
+
+    </Item>
+    <Item>
+        <ID>28</ID>
+
+        <Answer>Libya</Answer>
+
+    </Item>
+    <Item>
+        <ID>29</ID>
+
+        <Answer>Madagascar</Answer>
+
+    </Item>
+    <Item>
+        <ID>30</ID>
+
+        <Answer>Malawi</Answer>
+
+    </Item>
+    <Item>
+        <ID>31</ID>
+
+        <Answer>Mali</Answer>
+
+    </Item>
+    <Item>
+        <ID>32</ID>
+
+        <Answer>Mauritania</Answer>
+
+    </Item>
+    <Item>
+        <ID>33</ID>
+
+        <Answer>Mauritius</Answer>
+
+    </Item>
+    <Item>
+        <ID>34</ID>
+
+        <Answer>Morocco</Answer>
+
+    </Item>
+    <Item>
+        <ID>35</ID>
+
+        <Answer>Mozambique</Answer>
+
+    </Item>
+    <Item>
+        <ID>36</ID>
+
+        <Answer>Namibia</Answer>
+
+    </Item>
+    <Item>
+        <ID>37</ID>
+
+        <Answer>Niger</Answer>
+
+    </Item>
+    <Item>
+        <ID>38</ID>
+
+        <Answer>Nigeria</Answer>
+
+    </Item>
+    <Item>
+        <ID>39</ID>
+
+        <Answer>Rwanda</Answer>
+
+    </Item>
+    <Item>
+        <ID>40</ID>
+
+        <Answer>Sao Tome and Principe</Answer>
+
+    </Item>
+    <Item>
+        <ID>41</ID>
+
+        <Answer>Senegal</Answer>
+
+    </Item>
+    <Item>
+        <ID>42</ID>
+
+        <Answer>Seychelles</Answer>
+
+    </Item>
+    <Item>
+        <ID>43</ID>
+
+        <Answer>Sierra Leone</Answer>
+
+    </Item>
+    <Item>
+        <ID>44</ID>
+
+        <Answer>Somalia</Answer>
+
+    </Item>
+    <Item>
+        <ID>45</ID>
+
+        <Answer>South Africa</Answer>
+
+    </Item>
+    <Item>
+        <ID>46</ID>
+
+        <Answer>South Sudan</Answer>
+
+    </Item>
+    <Item>
+        <ID>47</ID>
+
+        <Answer>Sudan</Answer>
+
+    </Item>
+    <Item>
+        <ID>48</ID>
+
+        <Answer>Tanzania</Answer>
+
+    </Item>
+    <Item>
+        <ID>49</ID>
+
+        <Answer>Togo</Answer>
+
+    </Item>
+    <Item>
+        <ID>50</ID>
+
+        <Answer>Tunisia</Answer>
+
+    </Item>
+    <Item>
+        <ID>51</ID>
+
+        <Answer>Uganda</Answer>
+
+    </Item>
+    <Item>
+        <ID>52</ID>
+
+        <Answer>Zambia</Answer>
+
+    </Item>
+    <Item>
+        <ID>53</ID>
+
+        <Answer>Zimbabwe</Answer>
+
+    </Item>
+</Questionare>

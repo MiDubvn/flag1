@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/sml"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:textColor="#0033FF"
+            android:id="@+id/tieudekho"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Choose the best answer"
+            android:textSize="33dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            />
+        <ImageView
+            android:layout_below="@id/tieudekho"
+            android:id="@+id/imageViewQkho"
+            android:layout_width="285dp"
+            android:layout_height="186dp"
+            android:layout_centerHorizontal="true"
+            />
+
+        <RadioGroup
+            android:id="@+id/rdgtraloikho"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageViewQkho"
+            android:layout_marginTop="30dp"
+            >
+
+            <RadioButton
+                android:textSize="20dp"
+                android:id="@+id/RBAkho"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="A"
+                />
+
+            <RadioButton
+                android:layout_marginTop="5dp"
+                android:textSize="20dp"
+                android:id="@+id/RBBkho"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="B"
+                />
+
+            <RadioButton
+                android:layout_marginTop="5dp"
+                android:textSize="20dp"
+                android:id="@+id/RBCkho"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="C"
+                />
+
+            <RadioButton
+                android:layout_marginTop="5dp"
+                android:textSize="20dp"
+                android:id="@+id/RBDkho"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="D"
+                />
+
+
+        </RadioGroup>
+        <Button
+            android:textAllCaps="false"
+            android:id="@+id/bttiepkho"
+            android:textSize="23dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Next question"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            style="?android:attr/buttonStyleSmall"
+            android:drawableLeft="@drawable/next"
+            android:background="@drawable/sty1"
+            />
+        <Button
+            android:textAllCaps="false"
+            android:id="@+id/bttrovekho"
+            android:textSize="23dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Give up"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="false"
+            style="?android:attr/buttonStyleSmall"
+            android:drawableLeft="@drawable/next"
+            android:background="@drawable/sty1"
+            />
+        <TextView
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:id="@+id/tketquakho"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rdgtraloikho"
+            android:layout_marginTop="10pt"/>
+    </RelativeLayout>
+
+
+</android.support.constraint.ConstraintLayout>

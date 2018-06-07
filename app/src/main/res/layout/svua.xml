@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Điểm cao"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:layout_marginTop="20dp"
+        android:background="#00FFCC"
+        />
+    <TextView
+        android:id="@+id/txths1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textSize="20dp"
+        android:textAlignment="center"/>
+    <Button
+        android:textAllCaps="false"
+        android:id="@+id/btsbackvua"
+        android:textSize="23dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center"
+        style="?android:attr/buttonStyleSmall"
+        android:drawableLeft="@drawable/next"
+        android:background="@drawable/sty1"
+        />
+</LinearLayout>

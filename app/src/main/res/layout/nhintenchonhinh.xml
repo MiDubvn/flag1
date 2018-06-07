@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <ImageView
+            android:id="@+id/Img"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/top"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+        <ProgressBar
+            android:id="@+id/timeline"
+            style="?android:progressBarStyleHorizontal"
+            android:layout_width="300dp"
+            android:layout_height="20dp"
+            android:layout_below="@+id/Txttenquocgia"
+            android:layout_centerHorizontal="true"/>
+        <TextView
+            android:id="@+id/Txttenquocgia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:layout_below="@+id/Txtchonquockycua"/>
+
+        <TextView
+            android:id="@+id/Txtchonquockycua"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hãy chọn quốc kỳ của"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_below="@+id/Img"
+            android:textSize="30dp"
+            android:layout_centerHorizontal="true"
+            />
+
+        <CheckBox
+            android:id="@+id/CbA"
+            android:layout_width="172dp"
+            android:layout_height="102dp"
+            android:layout_marginLeft="10dp"
+            android:button="@android:color/transparent"
+            android:layout_alignTop="@+id/ImgBtnA"
+            />
+        <CheckBox
+            android:id="@+id/CbB"
+            android:layout_width="172dp"
+            android:layout_height="102dp"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentEnd="true"
+            android:button="@android:color/transparent"
+            android:layout_alignTop="@+id/ImgBtnA"
+            />
+        <CheckBox
+            android:id="@+id/CbC"
+            android:layout_width="172dp"
+            android:layout_height="102dp"
+            android:layout_marginLeft="10dp"
+            android:button="@android:color/transparent"
+            android:layout_alignTop="@+id/ImgBtnC"
+            />
+
+        <CheckBox
+            android:id="@+id/CbD"
+            android:layout_width="172dp"
+            android:layout_height="102dp"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentEnd="true"
+            android:button="@android:color/transparent"
+            android:layout_alignTop="@+id/ImgBtnC"
+            />
+
+
+        <ImageView
+            android:id="@+id/ImghighlghtA"
+            android:layout_width="165dp"
+            android:layout_height="85dp"
+            android:layout_below="@id/Txtchonquockycua"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="96dp"
+            android:background="@drawable/transparent" />
+
+        <ImageView
+            android:id="@+id/ImghighlghtB"
+            android:layout_width="165dp"
+            android:layout_height="85dp"
+            android:layout_marginRight="8dp"
+            android:background="@drawable/transparent"
+            android:layout_alignParentEnd="true"
+            android:layout_alignTop="@id/ImghighlghtA"
+
+            />
+
+        <ImageView
+            android:id="@+id/ImghighlghtC"
+            android:layout_width="165dp"
+            android:layout_height="85dp"
+            android:layout_marginLeft="8dp"
+            android:background="@drawable/transparent"
+            android:layout_below="@id/ImgBtnA"
+            android:layout_marginTop="18dp"
+            />
+
+        <ImageView
+            android:id="@+id/ImghighlghtD"
+            android:layout_width="165dp"
+            android:layout_height="85dp"
+            android:background="@drawable/transparent"
+            android:layout_marginRight="8dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignTop="@id/ImghighlghtC"
+
+            />
+
+        <ImageView
+            android:id="@+id/ImgBtnA"
+            android:layout_width="159dp"
+            android:layout_height="82dp"
+            android:layout_below="@id/Txtchonquockycua"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="98dp"
+            android:scaleType="fitXY" />
+
+        <ImageView
+            android:id="@+id/ImgBtnB"
+            android:layout_width="159dp"
+            android:layout_height="82dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignTop="@+id/ImgBtnA"
+            android:layout_marginRight="10dp"
+            android:scaleType="fitXY"
+
+            />
+
+        <ImageView
+            android:id="@+id/ImgBtnC"
+            android:layout_width="159dp"
+            android:layout_height="82dp"
+            android:layout_below="@id/ImgBtnA"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="20dp"
+            android:scaleType="fitXY" />
+        <ImageView
+            android:id="@+id/ImgBtnD"
+            android:scaleType="fitXY"
+            android:layout_width="159dp"
+            android:layout_height="82dp"
+            android:layout_marginRight="10dp"
+            android:layout_alignTop="@+id/ImgBtnC"
+            android:layout_alignParentEnd="true"
+            />
+
+        <Button
+            android:id="@+id/Btntraloi"
+            android:layout_width="130dp"
+            android:layout_height="50dp"
+            android:text="Trả lời"
+            android:textSize="20dp"
+            android:textColor="#FFFFFF"
+            android:layout_below="@+id/ImgBtnC"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"/>
+
+        <Button
+            android:id="@+id/Btnbocuoc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bỏ cuộc"
+            android:background="@null"
+            android:layout_marginRight="5dp"
+            android:textColor="@color/colorAccent"
+            android:textSize="20dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            />
+
+
+    </>
+
+</android.support.constraint.ConstraintLayout>

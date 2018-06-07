@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/picgoc"
+        android:layout_width="285dp"
+        android:layout_height="186dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/i48"
+        android:layout_marginTop="30pt"
+        />
+    <TextView
+        android:id="@+id/giaithich"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/picgoc"
+        android:text="Choose the picture like it"
+        android:textSize="30dp"
+        android:layout_marginTop="20dp"
+        android:padding="10dp"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:textColor="#FFFF00"
+        android:background="#6633FF"
+        />
+
+    <ImageView
+        android:id="@+id/picchon"
+        android:layout_width="295dp"
+        android:layout_height="174dp"
+        android:layout_below="@+id/giaithich"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="3dp"
+        android:src="@drawable/macdinh" />
+
+    <TextView
+        android:id="@+id/Sfinhinh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:textColor="#ff00"
+        android:text="100"/>
+</RelativeLayout>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Questionareasian>
+    <Item>
+        <ID>54</ID>
+        <Answer>Afghanistan</Answer>
+    </Item>
+
+    <Item>
+        <ID>55</ID>
+        <Answer>Armenia</Answer>
+    </Item>
+
+    <Item>
+        <ID>56</ID>
+        <Answer>Azerbaijan</Answer>
+
+    </Item>
+    <Item>
+        <ID>57</ID>
+
+        <Answer>Bahrain</Answer>
+
+    </Item>
+    <Item>
+        <ID>58</ID>
+
+        <Answer>Bangladesh</Answer>
+
+    </Item>
+    <Item>
+        <ID>59</ID>
+
+        <Answer>Bhutan</Answer>
+
+    </Item>
+    <Item>
+        <ID>60</ID>
+
+        <Answer>Brunei</Answer>
+
+
+    </Item>
+    <Item>
+        <ID>61</ID>
+        <Answer>Cambodia</Answer>
+
+
+    </Item>
+
+    <Item>
+        <ID>62</ID>
+
+        <Answer>China</Answer>
+
+
+    </Item>
+    <Item>
+        <ID>63</ID>
+        <Answer>Cyprus</Answer>
+
+
+    </Item>
+    <Item>
+        <ID>64</ID>
+
+        <Answer>Georgia</Answer>
+
+    </Item>
+    <Item>
+        <ID>65</ID>
+
+        <Answer>India</Answer>
+    </Item>
+    <Item>
+        <ID>66</ID>
+
+        <Answer>Indonesia</Answer>
+
+    </Item>
+    <Item>
+        <ID>67</ID>
+
+        <Answer>Iran</Answer>
+
+    </Item>
+    <Item>
+        <ID>68</ID>
+
+        <Answer>Iraq</Answer>
+
+    </Item>
+    <Item>
+        <ID>69</ID>
+
+        <Answer>Israel</Answer>
+
+    </Item>
+    <Item>
+        <ID>70</ID>
+        <Answer>Japan</Answer>
+
+    </Item>
+    <Item>
+        <ID>71</ID>
+
+        <Answer>Jordan</Answer>
+
+    </Item>
+    <Item>
+        <ID>72</ID>
+        <Answer>Kazakhstan</Answer>
+
+    </Item>
+    <Item>
+        <ID>73</ID>
+
+        <Answer>Kuwait</Answer>
+
+    </Item>
+    <Item>
+        <ID>74</ID>
+
+        <Answer>Kyrgyzstan</Answer>
+
+    </Item>
+    <Item>
+        <ID>75</ID>
+        <Answer>Laos</Answer>
+
+    </Item>
+    <Item>
+        <ID>76</ID>
+
+        <Answer>Lebanon</Answer>
+
+    </Item>
+    <Item>
+        <ID>77</ID>
+
+        <Answer>Malaysia</Answer>
+
+    </Item>
+    <Item>
+        <ID>78</ID>
+        <Answer>Maldives</Answer>
+    </Item>
+    <Item>
+        <ID>79</ID>
+
+        <Answer>Mongolia</Answer>
+    </Item>
+    <Item>
+        <ID>80</ID>
+
+        <Answer>Myanmar</Answer>
+
+    </Item>
+    <Item>
+        <ID>81</ID>
+        <Answer>Nepal</Answer>
+
+    </Item>
+    <Item>
+        <ID>82</ID>
+        <Answer>North Korea</Answer>
+
+    </Item>
+    <Item>
+        <ID>83</ID>
+        <Answer>Oman</Answer>
+
+    </Item>
+    <Item>
+        <ID>84</ID>
+
+        <Answer>Pakistan</Answer>
+    </Item>
+    <Item>
+        <ID>85</ID>
+
+        <Answer>Palestine</Answer>
+
+    </Item>
+    <Item>
+        <ID>86</ID>
+
+        <Answer>Philippines</Answer>
+
+    </Item>
+    <Item>
+        <ID>87</ID>
+        <Answer>Qatar</Answer>
+
+    </Item>
+    <Item>
+        <ID>88</ID>
+
+        <Answer>Russia</Answer>
+    </Item>
+    <Item>
+        <ID>89</ID>
+
+        <Answer>Saudi Arabia</Answer>
+    </Item>
+    <Item>
+        <ID>90</ID>
+
+        <Answer>Armenia</Answer>
+
+    </Item>
+    <Item>
+        <ID>91</ID>
+
+        <Answer>South Korea</Answer>
+
+    </Item>
+    <Item>
+        <ID>92</ID>
+
+        <Answer>Sri Lanka</Answer>
+    </Item>
+    <Item>
+        <ID>93</ID>
+
+        <Answer>Syria</Answer>
+
+    </Item>
+    <Item>
+        <ID>94</ID>
+
+        <Answer>Taiwan</Answer>
+
+    </Item>
+    <Item>
+        <ID>95</ID>
+
+        <Answer>Tajikistan</Answer>
+
+    </Item>
+    <Item>
+        <ID>96</ID>
+
+        <Answer>Thailand</Answer>
+    </Item>
+    <Item>
+        <ID>97</ID>
+        <Answer>Timor-Leste</Answer>
+
+    </Item>
+    <Item>
+        <ID>98</ID>
+      \
+        <Answer>Turkey</Answer>
+    </Item>
+    <Item>
+        <ID>99</ID>
+
+        <Answer>Turkmenistan</Answer>
+
+    </Item>
+    <Item>
+        <ID>100</ID>
+
+        <Answer>United Arab Emirates</Answer>
+
+    </Item>
+    <Item>
+        <ID>101</ID>
+
+        <Answer>Uzbekistan</Answer>
+    </Item>
+    <Item>
+        <ID>102</ID>
+
+        <Answer>Vietnam</Answer>
+
+    </Item>
+    <Item>
+        <ID>103</ID>
+
+        <Answer>Yemen</Answer>
+
+    </Item>
+</Questionareasian>

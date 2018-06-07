@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_below="@id/tieude"
+            android:id="@+id/imageViewQ"
+            android:src="@drawable/hd1"
+            android:layout_width="300dp"
+            android:layout_height="450dp"
+            android:layout_centerHorizontal="true"
+            />
+
+        <Button
+            android:textAllCaps="false"
+            android:id="@+id/bttrove"
+            android:textSize="23dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Next"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="false"
+            android:layout_centerHorizontal="true"
+            style="?android:attr/buttonStyleSmall"
+            android:drawableLeft="@drawable/next"
+            android:background="@drawable/sty1"
+            />
+
+    </RelativeLayout>
+
+
+</android.support.constraint.ConstraintLayout>

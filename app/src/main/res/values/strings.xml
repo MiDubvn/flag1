@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">flag1</string>
+    <string-array name="list_name">
+        <item>i0</item>
+        <item>i1</item>
+        <item>i2</item>
+        <item>i3</item>
+        <item>i4</item>
+        <item>i5</item>
+        <item>i6</item>
+        <item>i7</item>
+        <item>i8</item>
+        <item>i9</item>
+        <item>i10</item>
+        <item>i11</item>
+        <item>i12</item>
+        <item>i13</item>
+        <item>i14</item>
+        <item>i15</item>
+        <item>i16</item>
+        <item>i17</item>
+        <item>i18</item>
+        <item>i19</item>
+        <item>i20</item>
+        <item>i21</item>
+        <item>i22</item>
+        <item>i23</item>
+        <item>i24</item>
+        <item>i25</item>
+        <item>i26</item>
+        <item>i27</item>
+        <item>i28</item>
+        <item>i29</item>
+        <item>i30</item>
+        <item>i31</item>
+        <item>i32</item>
+        <item>i33</item>
+        <item>i34</item>
+        <item>i35</item>
+        <item>i36</item>
+        <item>i37</item>
+        <item>i38</item>
+        <item>i39</item>
+        <item>i40</item>
+        <item>i41</item>
+        <item>i42</item>
+        <item>i43</item>
+        <item>i44</item>
+        <item>i45</item>
+        <item>i46</item>
+        <item>i47</item>
+        <item>i48</item>
+        <item>i49</item>
+    </string-array>
+</resources>
